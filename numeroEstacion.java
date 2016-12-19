@@ -22,7 +22,7 @@ public class numeroEstacion {
 		case 1: estacion="Verano";break;
 		case 2: estacion="Otoño un retoño";break;
 		case 3: estacion="Invierno";break;
-		case 4: estacion="Primavera";break;
+		case 4: estacion="Primavera, la sangre altera";break;
 		default: estacion="incalculable porque te has equivocado al meter el número, por favor introduzca un número entre el 1 y el 4";break;
 		}
 		//Salida de datos
